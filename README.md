@@ -1,4 +1,4 @@
-# RangChain과 RangGraph
+# LangChain과 LangGraph
 
 ## LangGraph란
 
